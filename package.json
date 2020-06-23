@@ -1,0 +1,25 @@
+{
+  "name": "ElPerfecto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimplyFisica/ElPerfecto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SimplyFisica/ElPerfecto/issues"
+  },
+  "homepage": "https://github.com/SimplyFisica/ElPerfecto#readme",
+  "description": ""
+}
